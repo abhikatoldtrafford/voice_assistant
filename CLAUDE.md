@@ -18,12 +18,12 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 
 ## 🌟 Executive Summary
 
-RIATA is a revolutionary AI-powered educational platform that transforms online learning through personalized AI coaching, real-time voice interactions, and adaptive course management. Built with cutting-edge technologies, it serves students, instructors, and administrators with a seamless, intelligent learning ecosystem that remembers everything, adapts continuously, and provides truly personalized education at scale.
+Voice Assistant is a revolutionary AI-powered educational platform that transforms online learning through personalized AI coaching, real-time voice interactions, and adaptive course management. Built with cutting-edge technologies, it serves students, instructors, and administrators with a seamless, intelligent learning ecosystem that remembers everything, adapts continuously, and provides truly personalized education at scale.
 
 ## 🗂️ Complete Project Structure
 
 ```
-RIATA-1/
+Voice Assistant-1/
 ├── app/                                 # Next.js 15 App Router
 │   ├── (auth)/                        # Authentication pages
 │   │   ├── sign-in/                   # Sign in page

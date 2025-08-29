@@ -1,8 +1,8 @@
-# RIATA - AI-Powered Educational Platform
+# Voice Assistant - AI-Powered Educational Platform
 
 ## 🌟 Overview
 
-RIATA is a revolutionary AI-powered educational platform that transforms online learning through personalized AI coaching, real-time voice interactions, and adaptive course management. Built with cutting-edge technologies, it serves students, instructors, and administrators with a seamless, intelligent learning ecosystem.
+Voice Assistant is a revolutionary AI-powered educational platform that transforms online learning through personalized AI coaching, real-time voice interactions, and adaptive course management. Built with cutting-edge technologies, it serves students, instructors, and administrators with a seamless, intelligent learning ecosystem.
 
 ## 🚀 Key Features
 
@@ -87,7 +87,7 @@ npm run dev
 ## 📁 Project Structure
 
 ```
-RIATA/
+voice_assistant/
 ├── app/                    # Next.js App Router
 ├── components/             # Reusable React components
 ├── lib/                    # Core libraries and utilities
@@ -147,4 +147,4 @@ For support, please contact the development team.
 
 ---
 
-Built with ❤️ by the RIATA Team
+Built with ❤️ for transforming education through AI
