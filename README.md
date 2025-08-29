@@ -148,3 +148,4 @@ For support, please contact the development team.
 ---
 
 Built with ❤️ for transforming education through AI
+# Voice Assistant Platform
