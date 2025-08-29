@@ -1,0 +1,20 @@
+{
+    "extends": "./tsconfig.json",
+    "compilerOptions": {
+        "module": "commonjs",
+        "outDir": "dist",
+        "noEmit": false,
+        "baseUrl": ".",
+        "paths": {
+            "*": [
+                "*"
+            ],
+            "@/*": [
+                "./*"
+            ]
+        }
+    },
+    "include": [
+        "scripts/**/*"
+    ]
+}
